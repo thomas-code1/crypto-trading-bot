@@ -1,0 +1,9 @@
+table, th, td {
+    border: 1px solid grey;
+    text-align: center;
+}
+
+.red_button {
+    background-color: red;
+    color: white;
+}
